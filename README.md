@@ -17,3 +17,11 @@ This is a mini project built using **Flask** that provides a simple web interfac
 - etcd3 (Python etcd client)
 - gRPC
 - HTML (Jinja2 templating)
+
+## 📦 Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/etcd-flask-interface.git
+   cd etcd-flask-interface
+   
