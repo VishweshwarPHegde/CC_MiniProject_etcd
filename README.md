@@ -1,5 +1,5 @@
 # CC_MiniProject_etcd
-Building a Distributed Key-Value Store with etcd
+Building a Distributed Key-Value Store with etcd.
 This is a mini project built using **Flask** that provides a simple web interface to interact with an **etcd** key-value store. It supports listing all keys, retrieving values by key, inserting key-value pairs, and deleting keys from the etcd cluster.
 
 ## 🚀 Features
