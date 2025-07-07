@@ -25,3 +25,22 @@ This is a mini project built using **Flask** that provides a simple web interfac
    git clone https://github.com/your-username/etcd-flask-interface.git
    cd etcd-flask-interface
    
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Start etcd server**:
+   ```bash
+   etcd
+
+4. **Run the flask app**:
+   ```bash
+   python app.py
+
+5. **Access the app in your browser at**:
+   ```bash
+   http://127.0.0.1:5000/
+
+
+
+
