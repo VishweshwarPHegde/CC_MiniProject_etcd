@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ETCD - List Keys</title>
+</head>
+<body>
+    <h1>Keys in ETCD</h1>
+    <ul>
+        {% for key in keys %}
+            <li>{{ key }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
